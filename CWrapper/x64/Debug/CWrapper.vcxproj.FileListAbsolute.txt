@@ -1,0 +1,4 @@
+C:\Users\micha\Desktop\DwaWrapery\WrapperC\CWrapper\x64\Debug\CWrapper.vcxproj.AssemblyReference.cache
+C:\Users\micha\Desktop\WorkOnWrappers\WrapperC\CWrapper\x64\Debug\CWrapper.vcxproj.AssemblyReference.cache
+C:\Users\micha\Documents\GitHub\WrapperC\CWrapper\x64\Debug\CWrapper.vcxproj.AssemblyReference.cache
+C:\Users\micha\Desktop\Test\WraperWithLayer\CWrapper\x64\Debug\CWrapper.vcxproj.AssemblyReference.cache

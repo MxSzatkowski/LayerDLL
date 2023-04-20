@@ -1,0 +1,31 @@
+ImageRuntimeVersion: v4.0.30319
+Assembly CWrapper, Version=1.0.*, Culture=Invariant Language (Invariant Country): 
+	hash=SHA1, flags=PublicKey
+Assembly mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Data, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Xml, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Class CLI.ManagedObject<Core::Entity>: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(Core.Entity*): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Interfaces:
+    System.IDisposable
+  Methods:
+    Dispose(): PrivateScope, Public, Final, Virtual, HideBySig
+Class CLI.Entity: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :CLI.ManagedObject<Core::Entity>
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Properties:
+    Single Result 'get set' : 
+    Single B   'get set' : 
+    Single A   'get set' : 
+  Methods:
+    add(Single, Single): PrivateScope, Public, HideBySig
+    get_A(): PrivateScope, Public, HideBySig, SpecialName
+    get_B(): PrivateScope, Public, HideBySig, SpecialName
+    get_Result(): PrivateScope, Public, HideBySig, SpecialName
+Class Wrapper.Class1: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName

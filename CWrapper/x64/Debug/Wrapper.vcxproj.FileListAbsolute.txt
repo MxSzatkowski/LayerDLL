@@ -1,0 +1,2 @@
+C:\Users\micha\Desktop\Teraz\Core\Wrapper\x64\Debug\Wrapper.vcxproj.AssemblyReference.cache
+C:\Users\micha\Desktop\NaTesty\Teraz\Core\Wrapper\x64\Debug\Wrapper.vcxproj.AssemblyReference.cache

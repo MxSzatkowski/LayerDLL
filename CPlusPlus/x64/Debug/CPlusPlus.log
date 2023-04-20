@@ -1,0 +1,7 @@
+﻿  TestClassCallers2.cpp
+C:\Users\micha\Desktop\Test\WraperWithLayer\CPlusPlus\Ent.h(21,1): warning C4275: non dll-interface class 'Core::Entity' used as base for dll-interface class 'Ent'
+C:\Users\micha\Desktop\Test\WraperWithLayer\Core\Entity.h(6,11): message : see declaration of 'Core::Entity'
+C:\Users\micha\Desktop\Test\WraperWithLayer\CPlusPlus\Ent.h(20,31): message : see declaration of 'Ent'
+C:\Users\micha\Desktop\Test\WraperWithLayer\CPlusPlus\TestClassCallers2.cpp(28): warning C4715: 'CallAdd': not all control paths return a value
+     Creating library C:\Users\micha\Desktop\Test\WraperWithLayer\x64\Debug\CPlusPlus.lib and object C:\Users\micha\Desktop\Test\WraperWithLayer\x64\Debug\CPlusPlus.exp
+  CPlusPlus.vcxproj -> C:\Users\micha\Desktop\Test\WraperWithLayer\x64\Debug\CPlusPlus.dll

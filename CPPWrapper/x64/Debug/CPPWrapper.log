@@ -1,0 +1,12 @@
+﻿  pch.cpp
+  AssemblyInfo.cpp
+  CPPWrapper.cpp
+  Entity.cpp
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  Generating Code...
+  AssemblyInfo.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+Entity.obj : error LNK2028: unresolved token (0A00000C) "public: __cdecl Core::Entity::Entity(char const *,float,float)" (??0Entity@Core@@$$FQEAA@PEBDMM@Z) referenced in function "public: __clrcall CLI::Entity::Entity(class System::String ^,float,float)" (??0Entity@CLI@@$$FQE$AAM@PE$AAVString@System@@MM@Z)
+Entity.obj : error LNK2028: unresolved token (0A00000D) "public: void __cdecl Core::Entity::Move(float,float)" (?Move@Entity@Core@@$$FQEAAXMM@Z) referenced in function "public: void __clrcall CLI::Entity::Move(float,float)" (?Move@Entity@CLI@@$$FQE$AAMXMM@Z)
+Entity.obj : error LNK2019: unresolved external symbol "public: void __cdecl Core::Entity::Move(float,float)" (?Move@Entity@Core@@$$FQEAAXMM@Z) referenced in function "public: void __clrcall CLI::Entity::Move(float,float)" (?Move@Entity@CLI@@$$FQE$AAMXMM@Z)
+Entity.obj : error LNK2019: unresolved external symbol "public: __cdecl Core::Entity::Entity(char const *,float,float)" (??0Entity@Core@@$$FQEAA@PEBDMM@Z) referenced in function "public: __clrcall CLI::Entity::Entity(class System::String ^,float,float)" (??0Entity@CLI@@$$FQE$AAM@PE$AAVString@System@@MM@Z)
+C:\Users\micha\Documents\GitHub\WrapperC\x64\Debug\CPPWrapper.dll : fatal error LNK1120: 4 unresolved externals
